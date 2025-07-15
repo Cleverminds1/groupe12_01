@@ -1,3 +1,4 @@
+#Créer un programme qui demande le prénom, l’âge, la ville et le métier d’un utilisateur, puis affiche un mini profil structuré. Ensuite, ajouter une conversion d'âge en nombre de jours vécus (approximation).
 prenom = input("Entrez votre prénom : ")
 age = int(input("Entrez votre âge : "))
 ville = input("Entrez votre ville : ")

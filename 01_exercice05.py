@@ -1,3 +1,4 @@
+#Énoncé : Écrire un programme qui lit une distance (en km) et un temps (en heures), puis calcule la vitesse moyenne (km/h) et la vitesse en m/s.
 distance_km = float(input("Distance (km) : "))
 temps_h = float(input("Temps (heures) : "))
 

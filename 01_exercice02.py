@@ -1,3 +1,4 @@
+#Énoncé : Créer une mini "fiche produit" qui contient nom, prix, stock, remise. Calculer le prix final après remise
 nom_produit = "casque Bluetooth"
 prix = 150.0
 stock = 35

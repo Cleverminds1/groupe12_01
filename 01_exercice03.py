@@ -1,3 +1,4 @@
+#Énoncé : Écrire un script qui convertit une durée en secondes (entrée sous forme d'heures, minutes, secondes).
 heures = int(input("Nombre d'heures : "))
 minutes = int(input("Nombre de minutes : "))
 secondes = int(input("Nombre de secondes : "))
