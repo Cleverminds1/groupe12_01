@@ -1,4 +1,6 @@
 # groupe12_01
+#ENANGA_DANIEL_CHRISTIAN
+#L2_genie-electrique
 
 Résumé du Dossier TD ALGO
 Ce dossier pédagogique regroupe des exercices pratiques de programmation Python destinés aux étudiants. Il est divisé en 13 points thématiques couvrant les bases de la programmation, avec une structure claire et progressive.
